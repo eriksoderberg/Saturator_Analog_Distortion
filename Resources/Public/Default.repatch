@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.ekssperimentalsounds.Saturator"  deviceVersion="1.0.0d2" >
+    <DeviceNameInEnglish>
+        Saturator
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Amount"  type="number" >
+                0.35
+            </Value>
+            <Value property="Tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="Character"  type="number" >
+                0.5
+            </Value>
+            <Value property="Model"  type="number" >
+                7
+            </Value>
+        </Object>
+    </Properties>
+</JukeboxPatch>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.ekssperimentalsounds.Saturator"  deviceVersion="1.0" >
+    <DeviceNameInEnglish>
+        Saturator Analog Distortion
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Model"  type="number" >
+                7
+            </Value>
+            <Value property="Amount"  type="number" >
+                0.35
+            </Value>
+            <Value property="Tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="Character"  type="number" >
+                0.5
+            </Value>
+            <Value property="In_Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="Out_Level"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO_On"  type="number" >
+                0
+            </Value>
+            <Value property="LFO_Sync"  type="number" >
+                1
+            </Value>
+            <Value property="LFO_Rate"  type="number" >
+                0.42252445220947265625
+            </Value>
+            <Value property="LFO_Rate_Sync"  type="number" >
+                7
+            </Value>
+            <Value property="LFO_Shape"  type="number" >
+                1
+            </Value>
+            <Value property="LFO_Depth_Amount"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO_Depth_Tone"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO_Depth_Character"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO_Phase_Amount"  type="number" >
+                0
+            </Value>
+            <Value property="LFO_Phase_Tone"  type="number" >
+                0
+            </Value>
+            <Value property="LFO_Phase_Character"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

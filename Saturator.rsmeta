@@ -1,0 +1,696 @@
+{
+    "Files": [
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - BC12 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Clean",
+                "Evolving",
+                "Soft",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - BC12.repatch",
+            "Tags": [
+                "Analog",
+                "Clean",
+                "Soft",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - BV98 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Clean",
+                "Mellow",
+                "Rhythmic",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - BV98.repatch",
+            "Tags": [
+                "Analog",
+                "Clean",
+                "Mellow",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - PV40 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Bright",
+                "Clean",
+                "Rhythmic",
+                "Soft"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - PV40.repatch",
+            "Tags": [
+                "Analog",
+                "Bright",
+                "Clean",
+                "Soft"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - TG23 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Clean",
+                "Evolving",
+                "Fat",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Clean - TG23.repatch",
+            "Tags": [
+                "Analog",
+                "Clean",
+                "Fat",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Default.repatch",
+            "Tags": [
+                "Analog",
+                "Mellow",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - FD88 - Mod.repatch",
+            "Tags": [
+                "Bright",
+                "Dirty",
+                "Distorted",
+                "Metallic",
+                "Rhythmic",
+                "Synthetic",
+                "Weird"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - FD88.repatch",
+            "Tags": [
+                "Bright",
+                "Dirty",
+                "Distorted",
+                "Metallic",
+                "Synthetic",
+                "Weird"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - LF09 - Mod.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Hard",
+                "Lo-Fi",
+                "Rhythmic"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - LF09.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Hard",
+                "Lo-Fi"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - NN18 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Dirty",
+                "Distorted",
+                "Evolving",
+                "Hard"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - NN18.repatch",
+            "Tags": [
+                "Analog",
+                "Dirty",
+                "Distorted",
+                "Hard"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - SB05 - Mod.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Evolving",
+                "Metallic",
+                "Thin"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Gritty - SB05.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Metallic",
+                "Thin"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - F34K - Mod.repatch",
+            "Tags": [
+                "Bright",
+                "Dirty",
+                "Distorted",
+                "Fat",
+                "Hard",
+                "Rhythmic"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - F34K.repatch",
+            "Tags": [
+                "Bright",
+                "Dirty",
+                "Distorted",
+                "Fat",
+                "Hard"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - FF37 - Mod.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Fat",
+                "Hard",
+                "Rhythmic",
+                "Vintage"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - FF37.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Fat",
+                "Hard",
+                "Vintage"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - GR1T - Mod.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Evolving",
+                "Fat",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - GR1T.repatch",
+            "Tags": [
+                "Dirty",
+                "Distorted",
+                "Fat",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - X7R3 - Mod.repatch",
+            "Tags": [
+                "Distorted",
+                "Evolving",
+                "Fat",
+                "Hard",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Heavy - X7R3.repatch",
+            "Tags": [
+                "Distorted",
+                "Fat",
+                "Hard",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - A1R - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Dirty",
+                "Evolving",
+                "Fat",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - A1R.repatch",
+            "Tags": [
+                "Analog",
+                "Dirty",
+                "Fat",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - ES83 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Mellow",
+                "Rhythmic",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - ES83.repatch",
+            "Tags": [
+                "Analog",
+                "Mellow",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - WP76 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Evolving",
+                "Fat",
+                "Soft",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - WP76.repatch",
+            "Tags": [
+                "Analog",
+                "Fat",
+                "Soft",
+                "Vintage",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - ZX67 - Mod.repatch",
+            "Tags": [
+                "Analog",
+                "Bright",
+                "Rhythmic",
+                "Soft",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                },
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Modulation"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        },
+        {
+            "URL": "rackext:/se.ekssperimentalsounds.Saturator/Public/Warm - ZX67.repatch",
+            "Tags": [
+                "Analog",
+                "Bright",
+                "Soft",
+                "Warm"
+            ],
+            "Categories": [
+                {
+                    "ContentType": "effect_patch",
+                    "Primary": "Dist & Amp",
+                    "Sub": "Distortion"
+                }
+            ],
+            "Excluded": false,
+            "Author": "EKSS"
+        }
+    ]
+}

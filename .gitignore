@@ -1,0 +1,60 @@
+# Build output
+build/
+--build/
+downloads/
+touch/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# RE build artifacts
+*.u45
+*.re
+re-cmake-src/
+re-logging-src/
+re-mock-src/
+re-mock-build/
+_deps/
+jbox/
+generated/
+re.sh
+re-cmake.py
+build45.py
+
+# Compiled objects
+*.o
+*.a
+*.dylib
+
+# Debug/Release
+Debug/
+Release/
+Testing/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude / agents
+.claude/
+.agent/
+
+# Large local reference material (datasheets, schematics, papers) —
+# kept on disk for study, not published to the repo.
+Ref/
+
+# Local scratch awaiting deletion
+_to_delete/
