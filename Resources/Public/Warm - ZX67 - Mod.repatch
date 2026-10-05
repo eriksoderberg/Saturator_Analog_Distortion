@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<JukeboxPatch version="2.0"  deviceProductID="se.ekssperimentalsounds.Saturator"  deviceVersion="1.0" >
+<JukeboxPatch version="2.0"  deviceProductID="se.ekssperimentalsounds.Saturator"  deviceVersion="1.0.0d1" >
     <DeviceNameInEnglish>
         Saturator Analog Distortion
     </DeviceNameInEnglish>
